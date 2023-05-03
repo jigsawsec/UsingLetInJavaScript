@@ -29,7 +29,7 @@ applePies += 1;  // (answer would be 3)
 
 ## Some common ways to update the variable with let are by using:
 
-+=
++= <br>
 -=
 
 If you like my tutorials on JavaScript, be sure to sponsor me so it will 
