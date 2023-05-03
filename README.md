@@ -23,7 +23,7 @@ applePies = 5;
 
 ## You can also update variables:
 
-let applePies = 2;
+let applePies = 2; <br>
 applePies += 1;  // (answer would be 3)
 
 
