@@ -9,25 +9,25 @@ Some other cool things about let are:
        ▪ Can be reassigned
        ▪ You cannot redeclare a variable within the same block of code
        
-### You use let to declare a variable and assign it like:
+## You use let to declare a variable and assign it like:
 
 let applePies = 3; // note the ; is optional but it helps keep your code more readable so it's up to you if you want to use it!
 
-### You can use let to declare a variable while not assigning a value to it like:
+## You can use let to declare a variable while not assigning a value to it like:
 
 let applePies;
 
-### Later you can assign a value like:
+## Later you can assign a value like:
 
 applePies = 5;
 
-### You can also update variables:
+## You can also update variables:
 
 let applePies = 2;
 applePies += 1;  // (answer would be 3)
 
 
-### Some common ways to update the variable with let are by using:
+## Some common ways to update the variable with let are by using:
 
 +=
 -=
